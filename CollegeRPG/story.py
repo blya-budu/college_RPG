@@ -11,6 +11,7 @@ nikita_static = ascii_magic.from_image_file("art/nikita_s.jpg", columns=100)
 nikita_good = ascii_magic.from_image_file("art/nikita_good.jpg", columns=100)
 babaev = ascii_magic.from_image_file("art/babaev.jpg", columns=100)
 room = ascii_magic.from_image_file("art/room.jpg", columns=100)
+
 r = '   '
 
 with open('data.json', 'r', encoding='utf-8') as f:
