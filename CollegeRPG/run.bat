@@ -1,3 +1,3 @@
 @echo off
-python .\story.py
+python .\main.py
 pause
